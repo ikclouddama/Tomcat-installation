@@ -1,4 +1,6 @@
- # install Java JDK 1.8+ as a pre-requisit for tomcat to run.
+##Author:Ibrehima Keita 
+##Devops Engineer USA Maryland USA
+# install Java JDK 1.8+ as a pre-requisit for tomcat to run.
 sudo hostnamectl set-hostname tomcat
 cd /opt 
 sudo yum install git wget -y
